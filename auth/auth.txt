@@ -1,0 +1,2 @@
+bearer_token
+auth_token
